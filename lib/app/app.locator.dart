@@ -8,6 +8,7 @@
 
 import 'package:get_it/get_it.dart';
 import 'package:get_it_provider/helloService.dart';
+import 'package:stacked/stacked.dart';
 import 'package:stacked_themes/src/services/shared_preferences_service.dart';
 import 'package:stacked_themes/src/services/statusbar_service.dart';
 
